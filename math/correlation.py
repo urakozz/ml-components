@@ -1,5 +1,6 @@
 import math
 
+#Karl Pearson’s coefficient of correlation
 def corellation(A,B):
     n = float(len(A))
     muA = sum(A)/n
