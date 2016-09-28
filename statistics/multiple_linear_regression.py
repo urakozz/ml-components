@@ -31,4 +31,4 @@ def predict(B, X):
 # X_test = np.array([[0.5,1],[2.1,3]])
 # 
 # B = regression_parameters(X, y)
-# print(predict(X_test, B))
+# print(predict(X_test, B)) -> [[ 1.5], [ 3.3]]
