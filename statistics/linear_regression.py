@@ -1,5 +1,3 @@
-from __future__ import print_function
-
 # Linear regression parameters
 # http://www.stat.yale.edu/Courses/1997-98/101/linregin.htm
 #
@@ -17,7 +15,7 @@ def slope_interception(x,y): #parameter of linear regression
 # http://onlinestatbook.com/2/regression/intro.html
 # Y' = bX + A
 def regression_prediction(slope, intercept, x):
-  return slope * x + intercept
+        return slope * x + intercept
   
 # example
 # x = [15 , 12 , 8 ,  8 ,  7 ,  7  , 7  , 6 ,  5,   3]
