@@ -1,2 +1,2 @@
 # ml-components
-Useful components for NLP in Machine Learning
+Useful components and code samples for Statistics and Machine Learning
